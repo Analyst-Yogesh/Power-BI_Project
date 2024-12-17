@@ -1,4 +1,4 @@
-**Motorola Mobile Sales Dashboard 📊**
+# Motorola Mobile Sales Dashboard 📊
 
 **Project Overview 🚀**
 
