@@ -99,7 +99,7 @@ A series of SQL queries were executed to analyze OLA booking data. These queries
 
 # How to Use 📂
 
-1. Clone this repository: **git clone https://github.com/Analyst-Yogesh/OLA-Bookings-Project.git**
+1. Clone this repository: **git clone [https://github.com/Analyst-Yogesh/OLA-Bookings-Project.git](https://github.com/Analyst-Yogesh/Power-BI_Project/tree/main/OLA%20Bookings)**
 
 2. Open the **Power BI .pbix** file to explore the dashboard.
 
